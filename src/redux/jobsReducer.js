@@ -1,4 +1,3 @@
-// src/redux/jobsSlice.js
 import { createSlice } from "@reduxjs/toolkit";
 
 const jobsSlice = createSlice({

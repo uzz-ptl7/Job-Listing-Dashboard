@@ -1,4 +1,3 @@
-// src/components/JobFilter.jsx
 import React from "react";
 
 const JobFilter = ({ setFilter }) => {

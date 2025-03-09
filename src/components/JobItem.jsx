@@ -1,4 +1,3 @@
-// src/components/JobItem.jsx
 import React from "react";
 
 const JobItem = React.memo(({ job }) => {
